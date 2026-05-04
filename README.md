@@ -1,9 +1,49 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Web developer from Colombia</h3>
+<div align="center">
 
-- All of my projects are available at [https://alejc.vercel.app/](https://alejc.vercel.app/)
+### Hi, I'm Alejandro Cardona 👋
 
-- How to reach me **alejandrocm1406@gmail.com**
+I build thoughtful, responsive, and detail-oriented digital web experiences 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[Portfolio](https://alec.vercel.app) · [Email](mailto:alejandrocm1406@gmail.com)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%">
+
+### About me 
+
+I'm a Software Engineer student, focused on creating clean interfaces, reusable components, and polished user experiences. I enjoy turning ideas and design guidelines into cohesive products, always paying attention to the small details that make an interface feel right.
+
+### What I do 
+
+- 🌐 Build responsive web applications with modern frontend technologies.
+- 🧩 Develop reusable, efficient, and scalable UI components.
+- ⚡ Implement SSR experiences with Next.js and optimize pages for SEO.
+
+### Tech stack 
+
+<div>
+
+[![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro&logoColor=FFF)](https://astro.build/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)](https://supabase.com/)
+[![Drizzle](https://img.shields.io/badge/Drizzle-111111?style=for-the-badge&logo=drizzle&logoColor=C5F74F)](https://orm.drizzle.team/)
+[![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%">
+
+<div align="center">
+
+[Visit my portfolio](https://alejc.vercel.app)
+
+</div>
