@@ -4,7 +4,7 @@
 
 I build thoughtful, responsive, and detail-oriented digital web experiences 
 
-[Portfolio](https://alec.vercel.app) · [Email](mailto:alejandrocm1406@gmail.com)
+[Portfolio](https://alejc.vercel.app) · [Email](mailto:alejandrocm1406@gmail.com)
 
 </div>
 
