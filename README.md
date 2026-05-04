@@ -16,9 +16,9 @@ I'm a Software Engineer student, focused on creating clean interfaces, reusable 
 
 ### What I do 
 
-- 🌐 Build responsive web applications with modern frontend technologies.
-- 🧩 Develop reusable, efficient, and scalable UI components.
-- ⚡ Implement SSR experiences with Next.js and optimize pages for SEO.
+- Build responsive web applications with modern frontend technologies.
+- Develop reusable, efficient, and scalable UI components.
+- Implement SSR experiences with Next.js and optimize pages for SEO.
 
 ### Tech stack 
 
